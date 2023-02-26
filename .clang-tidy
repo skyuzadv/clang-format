@@ -20,3 +20,21 @@ CheckOptions:
     value: CamelCase
   - key: readability-identifier-naming.TemplateParameterCase
     value: CamelCase
+
+    # readability-identifier-length
+  - key: readability-identifier-length.MinimumVariableNameLength
+    value: 1
+  - key: readability-identifier-length.MinimumParameterNameLength
+    value: 1    
+  - key: readability-identifier-length.MinimumLoopCounterNameLength
+    value: 1
+  - key: readability-identifier-length.MinimumExceptionNameLength
+    value: 1
+
+#  braces
+    key: readability-braces-around-statements.ShortStatementLines
+    value: 30
+
+# typeddef 
+    key: modernize-use-using.IgnoreMacros
+    vaule: false     
