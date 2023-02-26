@@ -25,8 +25,8 @@ Extended CMake support in Visual Studio Code
 codelldb:
 A native debugger powered by LLDB. Debug C++, Rust and other compiled languages
 
-doxygen documentation generator
+doxygen documentation generator:
 Let me generate Doxygen documentation from your source code for you
 
-arh + wsl 
+arh + wsl:
 `arhlinux ：wsl + clangd + cmake + cmake tools + codelldb + doxygen documentation generator'
