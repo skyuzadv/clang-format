@@ -35,6 +35,6 @@ CheckOptions:
     key: readability-braces-around-statements.ShortStatementLines
     value: 30
 
-# typeddef 
+# typedef 
     key: modernize-use-using.IgnoreMacros
     vaule: false     
