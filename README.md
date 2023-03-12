@@ -12,6 +12,11 @@ users-snippets ：用户代码片段
 
 `c.json`, `cpp.json`
 
+`.gitignore` 添加git忽略文件或者文件夹
+参考GitHub官方：`gitignore` 项目，提供各种编程语言定制的忽略文件或者文件夹模板，几乎不用修改拿来可以使用。
+官方为Visual Studio项目订制的一个.gitignore文件
+`gitignore`项目链接：https://github.com/github/gitignore
+
 开发环境配置：
 `windows ： clangd + cmake + cmake tools + codelldb + doxygen documentation generator'
 clangd : C/C++ completion, navigation, and insights
